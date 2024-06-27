@@ -21,13 +21,13 @@ Installation & Usage
 You can use this program yourself by downloading the "javaWeek06FinalProject" file and opening it in your eclipse software. and clicking run.
 
 
-Developers who worked on this project
+Developers who worked on this project: 
 GOSPlayz
 
 
-Disclaimer
+Disclaimer: 
 I will not be updating my git on this program.
 
-Contact Info
+Contact Info:
 Gmail: fleecercowboy@gmail.com
 LinkedIn: https://www.linkedin.com/in/gregory-seccomb/
