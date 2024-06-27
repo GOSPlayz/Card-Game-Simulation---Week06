@@ -13,6 +13,7 @@ creates a deck of 52 cards
 
 Draw Hand for Player
 splits the deck between two players by drawing cards out of the main deck
+
 ![image](https://github.com/GOSPlayz/War-Card-Game-Simulation---Week06/assets/57775931/988bf272-94ed-481f-94f9-ab877a5372ae)
 
 
